@@ -2,7 +2,7 @@
 title: MongoDB Atlas Search Autocomplete with Next.js
 description: Learn how to build an autocomplete search feature using MongoDB Atlas Search and Next.js.
 date: "2023-04-9"
-url: https://www.mongodb.com/
+url: https://www.saadselim.com/projects/mongoDB-atlas-search
 repository: S-Selim/mongoDB-atlas-search-nextjs
 published: true
 ---
